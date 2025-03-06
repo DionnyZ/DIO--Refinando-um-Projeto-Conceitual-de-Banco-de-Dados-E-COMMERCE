@@ -1,6 +1,6 @@
 # Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE
 
-O objetivo desse desafio foi refinar um Modelo Lógico de um banco de dados de um E-commerce.
+O objetivo desse desafio foi refinar um modelo de um banco de dados de um E-commerce.
 
 A criação desse modelo foi conduzida até certo ponto, enquanto o desenvolvimento da parte restante foi o desafio proposto.
 
@@ -14,6 +14,6 @@ A criação desse modelo foi conduzida até certo ponto, enquanto o desenvolvime
  - Foi criada a entidade Forma de pagamento relacionada com Cliente. Um cliente pode ter várias formas de pagamento.
  - Foi criada a entidade Cartão como uma forma de pagamento com seus atributos. A Forma de Pagamento pode se especializar em Cartão.
 
-## Modelo Lógico
+## Modelo
 
 <img src="E-commerce.png" width="800">
