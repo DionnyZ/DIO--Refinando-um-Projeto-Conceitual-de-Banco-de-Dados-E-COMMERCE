@@ -2,7 +2,9 @@
 
 O objetivo desse desafio foi refinar um Modelo Lógico de um banco de dados de um E-commerce.
 
-Alterações:
+A criação desse modelo foi conduzida até certo ponto, enquanto o desenvolvimento da parte restante foi o desafio proposto.
+
+### Alterações
  - O Vendedor Terceirizado foi alterado para apenas Vendedor, podendo ser adicionado o próprio E-commercer como vendedor.
  - Foi adicionado o idVendedor em Relação Produto/Vendedor para identificar o vendedor do produto que está sendo comprado.
  - Foi criada a entidade Entrega com os atributos: status de entrega, código de rastreio e previsão de entrega.
@@ -14,4 +16,4 @@ Alterações:
 
 ## Modelo Lógico
 
-<img src="" width="400">
+<img src="E-commerce.png" width="800">
